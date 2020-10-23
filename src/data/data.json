@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "dwnshifter9",
+      "title": "Nike Downshifter 9",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/qspopcb3wwuispdcdftk/downshifter-9-womens-running-shoe-NJV8Bd.jpg",
+      "description": "The Nike Downshifter 9 features a lightweight mesh upper that provides breathable comfort.",
+      "price": 60,
+      "availableSizes": ["40", "41", "42", "43", "44", "45", "46"]
+    },
+    {
+      "_id": "airmx270",
+      "title": "Nike Air Max 270",
+      "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/olo60amig1cvddvrwciq/air-max-270-mens-shoe-Z0k0Fs.jpg",
+      "description": "Boasting the first-ever Max Air unit created specifically for Nike Sportswear, the Nike Air Max 270 Men's Shoe delivers visible air under every step.",
+      "price": 150,
+      "availableSizes": ["40", "41", "42", "43", "45", "46"]
+    },
+    {
+      "_id": "blzrmid77",
+      "title": "Nike Blazer Mid 77",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i1-32a0c6ec-1377-4284-b46e-2c6990b4a416/blazer-mid-vintage-77-shoe-fRJFC0.jpg",
+      "description": "Leather and canvas in the upper have a vibe that comes straight from the vault.",
+      "price": 100,
+      "availableSizes": ["42", "43", "45", "46"]
+    },
+    {
+      "_id": "lebron18",
+      "title": "Nike LeBron 18",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b55b412c-de55-4587-8dd3-0bdc73df08a7/lebron-18-basketball-shoe-M6DgN2.jpg",
+      "description": "When LeBron accelerates down the court, he produces tremendous force.",
+      "price": 200,
+      "availableSizes": ["40", "41", "42", "43", "45", "46", "47"]
+    },
+    {
+      "_id": "kybrdS2",
+      "title": "Nike Kybird S2",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/c0d25756-0eb9-42b9-8947-37eef09dff14/kybrid-s2-basketball-shoe-LjMCLj.jpg",
+      "description": "The Kybrid S2 combines the best of the Kyrie 4, 5 and 6 into one sensational, boundary-pushing basketball shoe.",
+      "price": 170,
+      "availableSizes": ["40", "41", "42", "43", "45", "46", "47"]
+    },
+    {
+      "_id": "betrue37",
+      "title": "Nike Air Zoom Structure 23",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f7fff8d8-0908-4513-b18c-f0398c08c563/air-zoom-structure-23-mens-running-shoe-427jQw.jpg",
+      "description": "A favorite returns. Made for the runner looking for a shoe they can wear daily, the Nike Air Zoom Structure 23 keeps you cushioned with a plush, ventilated design.",
+      "price": 120,
+      "availableSizes": ["43", "45", "46", "47"]
+    }
+  ]
+}
