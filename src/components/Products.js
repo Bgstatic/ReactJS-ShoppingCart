@@ -2,14 +2,20 @@ import React, { Component } from "react";
 import Fade from "react-reveal/Fade";
 import Modal from "react-modal";
 import Zoom from "react-reveal";
+import { fetchProducts } from "../actions/productAction";
+import { addToCart } from "../actions/cartActions";
+import { connect } from "mongoose";
 import "../styles/Products.css";
 
-export default class Products extends Component {
+class Products extends Component {
   constructor(props) {
     super(props);
     this.state = {
       product: null,
     };
+  }
+  componentDidMount() {
+    this.props.fetchProducts;
   }
   openModal = (product) => {
     this.setState({ product });
@@ -90,3 +96,7 @@ export default class Products extends Component {
     );
   }
 }
+export default connect((state) => ({ products: state.products.items }), {
+  fetchProducts,
+  addToCart,
+})(Products);
