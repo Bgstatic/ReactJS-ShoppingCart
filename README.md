@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  ## About the App
  
+ A basic shopping cart app that where you can add items to cart or filter the products based on their features.
  
 ---
 
