@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ReactJS-ShoppingCart
 
-#### A shopping cart app made with ReactJS | React-Hooks |Redux
+#### A shopping cart app made with ReactJS | React-Hooks | Redux
 
 ---
 
